@@ -1,5 +1,5 @@
 html { 
-  background: url(../image/background.jpg); 
+  background: url(../FJERE.github.io/background.jpg); 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -34,14 +34,4 @@ p {
 	width:325px;
 	margin: 0 auto;
 	border-top:1px solid white;
-}
-.add{
-width: 400px;
-height: 500px;
-background: rgba(0,0,0,0.4);
-padding: 40px;
-color: white;
-margin-left 200px;
-margin-top: 100px;
-text-align: center;
 }
