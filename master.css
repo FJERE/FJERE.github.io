@@ -1,5 +1,5 @@
 html { 
-   background ="background.jpg"; 
+   background: url(https://github.com/FJERE/FJERE.github.io/blob/master/background.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
